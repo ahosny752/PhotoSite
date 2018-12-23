@@ -1,0 +1,95 @@
+body{
+ background: #c31432;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ color: silver;   
+}
+ 
+    
+.w3-input {
+    color: black;
+}
+
+
+
+h1 {
+    color: silver; 
+    
+}
+  
+.navbar-default{
+    background-color: whitesmoke;
+     margin-bottom:0px !important; 
+}
+
+li .active{
+    background-color: red;
+    
+}
+
+.carousel-caption { 
+  margin-top:0px !important;
+
+}
+
+.container{
+    width: 500px;
+    align-content: center;
+}
+
+/*.form-group {
+    margin-top: 50%;
+    
+}*/
+
+.adminbtn{
+    position:relative;
+    transition: .5s ease;
+    top: 191px;
+    left: 420px;
+    right: -420px;
+    bottom: -191px;
+}
+
+
+
+.btn-primary {
+    background-color: #240b36 !important;
+    border-color: #c31432;
+    border-radius: 25px;
+    
+}
+
+/*.btn-primary:focus{
+    background-color: darkred;
+}
+
+.btn-primary:hover {
+    background-color: #c31432;
+    
+    
+}*/
+
+#content img{
+    width: 500px;
+    height: 500px;
+  
+}
+
+td img {
+  display: block;  
+    
+}
+
+th {
+  text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+li:hover {
+  background-color: silver;
+}
+
